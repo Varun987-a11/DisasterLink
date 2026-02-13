@@ -183,7 +183,7 @@ This guiding principle reflects the humanitarian intention behind the project: t
 
 ## 🌟 Final Thought  
 
-**DisasterLink is more than a platform — it is a commitment to preparedness, coordination, and compassion.**  
+**DisasterLink is more than a platform - it is a commitment to preparedness, coordination, and compassion.**  
 
 Through structured reporting, resource accessibility, and real-time information sharing, it aims to make disaster response more organized, efficient, and humane.
 
