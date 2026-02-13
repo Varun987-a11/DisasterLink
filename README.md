@@ -170,7 +170,7 @@ These additions can further strengthen the system’s responsiveness and accessi
 
 ## 💭 Philosophy  
 
-DisasterLink is built on the belief that technology should serve humanity—especially during moments of vulnerability.
+DisasterLink is built on the belief that technology should serve humanity-especially during moments of vulnerability.
 
 > **"Lokah Samastah Sukhino Bhavantu"**  
 > *May all beings everywhere be happy and free.*
